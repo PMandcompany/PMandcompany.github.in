@@ -1,5 +1,3 @@
-# PMandcompany.github.in
-Just Think About Earnings, Let us Handle Taxtation
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,6 +8,7 @@ Just Think About Earnings, Let us Handle Taxtation
 <body>
   <header>
     <h1>PM & Company</h1>
+Just Think About Earnings, Let us Handle Taxtation
   </header>
   <main>
     <!-- Add your website content here -->
