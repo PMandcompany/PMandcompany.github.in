@@ -3,7 +3,7 @@ Just Think About Earnings, Let us Handle Taxtation
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <title>File Your ITR just @499</title>
+  File Your ITR just @499
   <meta charset="UTF-8">
   <meta="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/style.css">
