@@ -3,7 +3,6 @@ Just Think About Earnings, Let us Handle Taxtation
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  File Your ITR just @499
   <meta charset="UTF-8">
   <meta="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="stylesheet" href="css/style.css">
@@ -17,3 +16,4 @@ Just Think About Earnings, Let us Handle Taxtation
   </main>
  footer>
     <p>&copy; Your Business Name</p>
+  File Your ITR just @499
