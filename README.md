@@ -9,7 +9,6 @@
   <header>
     <h1>PM & Company</h1>
 Just Think About Earnings, Let us Handle Taxtation
-  </header>
   <main>
     <!-- Add your website content here -->
   </main>
