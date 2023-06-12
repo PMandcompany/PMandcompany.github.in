@@ -1,18 +1,63 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <meta="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.css">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>PM & Company - Financial Services</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        header {
+            background-color: #333;
+            color: white;
+            text-align: center;
+            padding: 1rem;
+        }
+        h1 {
+            margin-bottom: 0.5rem;
+        }
+        ul {
+            list-style-type: none;
+            padding: 0;
+        }
+        li {
+            display: inline;
+            margin-right: 1rem;
+        }
+        a {
+            color: white;
+            text-decoration: none;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+        section {
+            padding: 2rem;
+        }
+    </style>
 </head>
 <body>
-  <header>
-    <h1>PM & Company</h1>
-Just Think About Earnings, Let us Handle Taxtation
-  <main>
-    <!-- Add your website content here -->
-  </main>
-    <p>&copy; Your Business Name</p>
-  File Your ITR Starting at just @499
-    
-![ITR Documents - small](https://github.com/PMandcompany/PMandcompany.github.in/assets/135839565/5abde96a-1752-4abf-803e-2d5042969b96)
+    <header>
+        <h1>PM & Company</h1>
+        <ul>
+            <li><a href="#services">Services</a></li>
+            <li><a href="#contact">Contact</a></li>
+        </ul>
+    </header>
+    <section id="services">
+        <h2>Our Services</h2>
+        <ul>
+            <li>Income Tax Return filing</li>
+            <li>GST Return filing</li>
+            <li>Other financial services</li>
+        </ul>
+    </section>
+    <section id="contact">
+        <h2>Contact Us</h2>
+        <p>Email: info@pmcompany.com</p>
+        <p>Phone: +1 (123) 456-7890</p>
+    </section>
+</body>
+</html>
