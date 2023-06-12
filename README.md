@@ -15,4 +15,4 @@ Just Think About Earnings, Let us Handle Taxtation
     <p>&copy; Your Business Name</p>
   File Your ITR just @499
     
-![ITR Documents](https://github.com/PMandcompany/PMandcompany.github.in/assets/135839565/e8369fb4-da21-459f-a324-271217a397b1)
+![ITR Documents - small](https://github.com/PMandcompany/PMandcompany.github.in/assets/135839565/5abde96a-1752-4abf-803e-2d5042969b96)
