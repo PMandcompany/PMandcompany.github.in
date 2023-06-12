@@ -40,7 +40,7 @@
 </head>
 <body>
     <header>
-        <h1>PM & Company</h1>
+        <h1>PM & Co.</h1>
         <ul>
             <li><a href="#services">Services</a></li>
             <li><a href="#contact">Contact</a></li>
@@ -56,8 +56,8 @@
     </section>
     <section id="contact">
         <h2>Contact Us</h2>
-        <p>Email: info@pmcompany.com</p>
-        <p>Phone: +1 (123) 456-7890</p>
+        <p>Email: pmandcompanys.com</p>
+        <p>Phone: +918446669028</p>
     </section>
 </body>
 </html>
